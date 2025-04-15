@@ -49,7 +49,7 @@ def ingest_documents(local_file_path: str) -> str:
             )
         ]
     )
-    return f"""Ingested {file_name} into the knowledge base. 
+    return f"""Ingested {file_name} into knowledge base. 
                It should be available in a few minutes"""
 
 if __name__ == "__main__":
