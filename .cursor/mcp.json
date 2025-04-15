@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "eye-level-mcp-server": {
+        "command": "uv",
+        "args": [
+                  "--directory", "/Users/ShahYash/Desktop/Projects/eye-level-mcp-rag", "run", "server.py"
+                  ],
+        "env": {
+          "GROUNDX_API_KEY": "5f4121ad-8e52-4d22-9ba3-9e04bb525753"
+        }
+      }
+    }
+  }
